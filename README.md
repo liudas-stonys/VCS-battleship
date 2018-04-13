@@ -1,1 +1,3 @@
-# VilniusCodingSchool-Battleship
+## Under construction
+### Vilnius Coding School project
+Battleship
